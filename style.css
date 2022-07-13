@@ -38,3 +38,7 @@ body {
 .button:active {
   border: 5px solid #ffd300;
 }
+img {
+  height: 100%;
+  width: 100%;
+}
